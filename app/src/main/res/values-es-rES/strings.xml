@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTrips</string>
+
+    <string name="login_title">Acceso</string>
+    <string name="login_subTitle">Complete los campos a continuación para continuar</string>
+    <string name="login_button_signIn">Entrar</string>
+    <string name="login_create_account">No tienes una cuenta</string>
+    <string name="login_create_account_nav">Crea una cuenta</string>
+
+    <string name="signUp_title">Acceso</string>
+    <string name="signUp_subTitle">Crea una cuenta</string>
+    <string name="signUp_boolean_18">¿Tienes +18?</string>
+    <string name="signUp_button_create_account">CREA UNA CUENTA</string>
+    <string name="signUp_have_account">¿Ya tienes una cuenta?</string>
+    <string name="signUp_have_account_nav">Entrar</string>
+
+    <string name="home_subTitle">Usted esta en</string>
+    <string name="home_input">Busca tu destino</string>
+    <string name="home_categories">Categorías</string>
+    <string name="home_pastTrips">Viajes pasados</string>
+
+    <string name="input_email">Email</string>
+    <string name="input_password">Contraseña</string>
+    <string name="input_username">Nombre de usuario</string>
+    <string name="input_phone">Teléfono</string>
+
+    <string name="category1">Montaña</string>
+    <string name="category2">Nieve</string>
+    <string name="category3">Playa</string>
+</resources>
